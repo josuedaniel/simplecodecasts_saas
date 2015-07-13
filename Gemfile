@@ -33,9 +33,9 @@ gem 'spring',        group: :development
 # Use devise for user auth
 gem 'devise', '3.4.1'
 # Use stripe for handling payments
-gem 'stripe', '1.22.0'
+gem 'stripe', '1.16.1'
 # Use figaro to hide secret keys
-gem 'figaro', '1.1.1'
+gem 'figaro', '1.0.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 # Use unicorn as the app server
